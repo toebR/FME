@@ -68,7 +68,7 @@ We first load the data with a reader, add an Rcaller transformer and an attribut
 ![scrn_fme_workbench](https://user-images.githubusercontent.com/65813696/139042862-6b93fc2e-4445-4d54-9fcf-8ea2b7755219.PNG)
 
 The attribute manager is used to map the output attributes of an Rscript (the data, not the plot).
-In the Rcaller, we can write a simple R script which creates and saved the plot to our defined directory.
+In the Rcaller, we can write a simple R script which creates and saves the plot to our defined directory.
 
 ![grafik](https://user-images.githubusercontent.com/65813696/139042958-c4ff0cba-af60-4b32-994c-e8070b58730d.png)
 
